@@ -7,10 +7,13 @@ I build interfaces, fight accessibility issues and occasionally wonder why CSS b
 
 ### Things I care about
 
-**Accessibility** — because the web should work for everyone.
-**Code quality** — future me has to maintain this.
-**UX** — if users need a tutorial, something probably went wrong.
-**Learning** — there's always something I don't know yet.
+**Accessibility:** because the web should work for everyone.
+
+**Code quality:** future me has to maintain this.
+
+**UX:** if users need a tutorial, something probably went wrong.
+
+**Learning:** there's always something I don't know **yet**.
 
 ### Tech
 
